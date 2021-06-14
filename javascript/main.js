@@ -25,7 +25,7 @@
       content.classList.add("animate__animated")
 
       setTimeout(function(){
-        location.href = "/";
+        location.href = "https://ayelenleclerc.github.io/boletines";
       } , 600);
       })
 
