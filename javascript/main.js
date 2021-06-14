@@ -8,8 +8,8 @@
 
 //agregar un evento click a cada uno de ellos
 
-    link.addEventListener("click" , function(ev){
-      ev.preventDefault();
+    link.addEventListener("click" , function(event){
+      event.preventDefault();
       let content = document.querySelector(".content")
 
 
